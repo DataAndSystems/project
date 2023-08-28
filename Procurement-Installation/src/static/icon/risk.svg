@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 92 92" style="enable-background:new 0 0 92 92;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0;fill:#D63A3A;}
+	.st1{fill:url(#路径_430_1_);}
+	.st2{opacity:0.75;fill:#FFFFFF;enable-background:new    ;}
+	.st3{fill:url(#椭圆_177_1_);}
+	.st4{fill:#FFFFFF;}
+</style>
+<rect y="0" class="st0" width="92" height="92"/>
+<g id="组_1232" transform="translate(-567.421 -339.504)">
+	
+		<linearGradient id="路径_430_1_" gradientUnits="userSpaceOnUse" x1="246.0297" y1="533.4535" x2="245.2257" y2="533.9085" gradientTransform="matrix(66.7713 0 0 -76.9875 -15793.0264 41470.125)">
+		<stop  offset="0" style="stop-color:#5C62E6"/>
+		<stop  offset="1" style="stop-color:#AF7FF6"/>
+	</linearGradient>
+	<path id="路径_430" class="st1" d="M605.5,423.2c-1.2,0-2.5-0.4-3.5-1.1l-15.5-10.8c-9-6.6-14.4-17.2-14.4-28.4v-20.5
+		c0-1.1,0.7-2.2,1.7-2.7l28.3-13.1h0.3c2-0.7,4.1-0.7,6.1,0h0.3l28.3,13.1c1,0.5,1.7,1.5,1.7,2.7V383c0,11.2-5.2,21.7-14.2,28.4
+		L609,422.2C608,422.9,606.8,423.3,605.5,423.2L605.5,423.2z"/>
+	<path id="路径_432" class="st2" d="M618.7,380.3h-10.6l-0.1-21.8l-15.6,30.8H603l0.1,21.8L618.7,380.3z"/>
+	
+		<linearGradient id="椭圆_177_1_" gradientUnits="userSpaceOnUse" x1="250.4408" y1="530.3582" x2="250.4408" y2="529.3582" gradientTransform="matrix(36 0 0 -36 -8379.1572 19481.6445)">
+		<stop  offset="0" style="stop-color:#FFA2CB"/>
+		<stop  offset="1" style="stop-color:#F24791"/>
+	</linearGradient>
+	<circle id="椭圆_177" class="st3" cx="636.7" cy="406.7" r="18"/>
+	<g id="组_1217" transform="translate(742.747 -272.337)">
+		<g id="组_1216">
+			<circle id="椭圆_160" class="st4" cx="-106.2" cy="686.4" r="1.5"/>
+			<path id="路径_431" class="st4" d="M-104.3,672c0-1-0.8-1.9-1.9-1.9c-1,0-1.9,0.8-1.9,1.9c0,0,0,0.1,0,0.1c0,0.1,0,0.1,0,0.2
+				l0.4,9.9c0,0.8,0.7,1.4,1.4,1.4l0,0c0.8,0,1.4-0.6,1.4-1.4l0.5-9.9v-0.2C-104.3,672.1-104.3,672-104.3,672z"/>
+		</g>
+	</g>
+</g>
+</svg>

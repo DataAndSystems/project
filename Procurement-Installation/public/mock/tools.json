@@ -1,0 +1,42 @@
+{
+    "success":true,
+    "code":"200",
+    "message":"ok",
+    "data": {
+        "tabBar": [
+            { "title": "量表工具" },
+            { "title": "治疗决策系统" },
+            { "title": "医学问卷" }
+        ],
+        "tabContent": [
+            [
+                { "title": "TNM分期", "code": "S001" },
+                { "title": "VNPI计算", "code": "S002" },
+                { "title": "复发风险 判断", "code": "S003" },
+                { "title": "体表面积 计算", "code": "S004" },
+                { "title": "化疗剂量 计算", "code": "S005" },
+                { "title": "再造假体 匹配", "code": "S006" },
+                { "title": "STEPP 小程序", "code": "S009" },
+                { "title": "CTS5 小程序", "code": "S010" },
+                { "title": "Adjuvant online", "code": "S014" },
+                { "title": "RCB index", "code": "S015" },
+                { "title": "OPS 决策流程", "code": "S016" },
+                { "title": "Gail model", "code": "S017" },
+                { "title": "三阴性乳腺癌复旦分型", "code": "S019" }
+            ],
+            [
+                { "title": "辅助治疗决策树", "code": "S007" },
+                { "title": "新辅助治疗决策树", "code": "S008" },
+                { "title": "新辅后辅助治疗决策树", "code": "S020" },
+                { "title": "晚期治疗决策树", "code": "S013" },
+                { "title": "导管原位癌", "code": "S011" },
+                { "title": "浸润性癌", "code": "S012" }
+            ],
+            [
+                { "title": "BREAST Q", "code": "S018" },
+                { "title": "EORTC生命质量测定量表", "code": "S021" }
+            ]
+            
+        ]
+    }
+}

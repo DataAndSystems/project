@@ -1,0 +1,12 @@
+.home_content {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    :global(.am-tabs-bottom .am-tab-bar-tab-icon .anticon) {
+        font-size: 28px !important;
+    }
+    :global(.am-tabs-default-bar-top .am-tabs-default-bar-tab) {
+        border-bottom: none;
+    }
+}

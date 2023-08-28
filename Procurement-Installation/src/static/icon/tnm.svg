@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 92 92" style="enable-background:new 0 0 92 92;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F0F1F8;fill-opacity:0;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{opacity:0.75;fill:#BABAF9;enable-background:new    ;}
+	.st3{fill:url(#SVGID_2_);}
+	.st4{opacity:0;}
+	.st5{fill:url(#椭圆_166_1_);}
+	.st6{opacity:0.75;fill:#FFFFFF;enable-background:new    ;}
+	.st7{fill:url(#椭圆_168_1_);}
+	.st8{opacity:0.3;fill:#FFFFFF;enable-background:new    ;}
+</style>
+<g>
+	<rect id="矩形_135_1_" x="-189.5" y="-6" class="st0" width="92" height="92"/>
+	<g>
+		
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-178.11" y1="54.02" x2="-103.11" y2="54.02" gradientTransform="matrix(1 0 0 -1 0 94)">
+			<stop  offset="1.632771e-03" style="stop-color:#5C62E4"/>
+			<stop  offset="0.9992" style="stop-color:#AD7FF4"/>
+		</linearGradient>
+		<circle class="st1" cx="-140.6" cy="40" r="37.5"/>
+		<circle class="st2" cx="-147.5" cy="20.2" r="6.8"/>
+		
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-183.94" y1="79.22" x2="-162.02" y2="79.22" gradientTransform="matrix(1 0 0 -1 0 94)">
+			<stop  offset="0" style="stop-color:#FF876C"/>
+			<stop  offset="1" style="stop-color:#FFB2A5"/>
+		</linearGradient>
+		<circle class="st3" cx="-173" cy="14.8" r="11"/>
+		<circle class="st2" cx="-124.1" cy="49.3" r="7.9"/>
+		<circle class="st2" cx="-125.8" cy="24.9" r="3.4"/>
+		<circle class="st2" cx="-139.6" cy="37.3" r="3.4"/>
+		<circle class="st2" cx="-139.6" cy="62.5" r="3.4"/>
+		<circle class="st2" cx="-159.5" cy="47.9" r="9.3"/>
+	</g>
+</g>
+<rect id="矩形_506" class="st4" width="92" height="92"/>
+<g>
+	
+		<linearGradient id="椭圆_166_1_" gradientUnits="userSpaceOnUse" x1="-322.1714" y1="193.9043" x2="-322.8484" y2="194.4073" gradientTransform="matrix(75 0 0 -75 24237.4199 14608)">
+		<stop  offset="0" style="stop-color:#5C62E6"/>
+		<stop  offset="1" style="stop-color:#AF7FF6"/>
+	</linearGradient>
+	<circle id="椭圆_166" class="st5" cx="49.4" cy="46.5" r="37.5"/>
+	<circle id="椭圆_167" class="st6" cx="54.5" cy="26.8" r="6.8"/>
+	
+		<linearGradient id="椭圆_168_1_" gradientUnits="userSpaceOnUse" x1="-310.9152" y1="186.0493" x2="-309.9152" y2="186.0493" gradientTransform="matrix(21.92 0 0 -21.92 6821.3501 4099.5)">
+		<stop  offset="0" style="stop-color:#FF876C"/>
+		<stop  offset="1" style="stop-color:#FFB2A5"/>
+	</linearGradient>
+	<circle id="椭圆_168" class="st7" cx="17" cy="21.3" r="11"/>
+	<circle id="椭圆_169" class="st6" cx="31.1" cy="55.8" r="7.9"/>
+	<circle id="椭圆_170" class="st6" cx="32.8" cy="31.4" r="3.4"/>
+	<circle id="椭圆_171" class="st8" cx="46.6" cy="43.9" r="3.4"/>
+	<circle id="椭圆_172" class="st8" cx="46.6" cy="69" r="3.4"/>
+	<circle id="椭圆_173" class="st8" cx="66.5" cy="54.4" r="9.3"/>
+</g>
+</svg>
